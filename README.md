@@ -111,6 +111,3 @@ This project demonstrates core backend development concepts such as CRUD operati
 - Frontend Integration using React / Angular
 
 ---
-
-## 👨‍💻 Author
-Sonal Kumbhar
