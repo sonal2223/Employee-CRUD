@@ -32,7 +32,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 - Java
 - Spring Boot
 - Spring Data JPA
