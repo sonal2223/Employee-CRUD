@@ -3,7 +3,7 @@
 ## 📌 Overview
 Employee Attendance Management System is a professional backend application developed using Java, Spring Boot, and MySQL. The system is designed to manage employee information and maintain daily attendance records in an efficient and organized manner.
 
-This project demonstrates core backend development concepts such as CRUD operations, RESTful API creation, database relationships, and real-time data management using Spring Boot.
+This project demonstrates core backend development concepts such as CRUD operations, RESTful API creation, database relationships, and real-time data management using Spring Boot. 
 
 ---
 
