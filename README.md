@@ -10,7 +10,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 ## 🚀 Key Features 
 
 ### 👨‍💼 Employee Management
-- Add new employee records
+- Add new employee records.
 - View all employees
 - Search employee by ID
 - Update employee details
