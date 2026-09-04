@@ -13,7 +13,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 - Add new employee records.
 - View all employees.
 - Search employee by ID.
-- Update employee details
+- Update employee details.
 - Delete employee records
 
 ### 📅 Attendance Management
