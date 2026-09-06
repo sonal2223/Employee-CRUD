@@ -23,7 +23,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 - View employee attendance history.
 
 ### 💰 Salary Management
-- Store daily salary details
+- Store daily salary details.
 - Ready for monthly salary calculation integration
 
 ### 💾 Database Management
