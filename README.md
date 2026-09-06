@@ -20,7 +20,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 - Mark daily attendance.
 - Present / Absent status tracking.
 - Store attendance by date.
-- View employee attendance history
+- View employee attendance history.
 
 ### 💰 Salary Management
 - Store daily salary details
