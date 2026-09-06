@@ -27,7 +27,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 - Ready for monthly salary calculation integration.
 
 ### 💾 Database Management
-- Data stored securely in MySQL
+- Data stored securely in MySQL.
 - Structured relational database design
 
 ---
