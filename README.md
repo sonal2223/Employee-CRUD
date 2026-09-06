@@ -24,7 +24,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 
 ### 💰 Salary Management
 - Store daily salary details.
-- Ready for monthly salary calculation integration
+- Ready for monthly salary calculation integration.
 
 ### 💾 Database Management
 - Data stored securely in MySQL
