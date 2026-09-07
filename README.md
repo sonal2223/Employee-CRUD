@@ -28,7 +28,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 
 ### 💾 Database Management
 - Data stored securely in MySQL.
-- Structured relational database design
+- Structured relational database design.
 
 ---
 
