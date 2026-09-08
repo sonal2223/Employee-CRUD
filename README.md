@@ -82,7 +82,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 
 ## ▶️ How to Run Project
 
-1. Clone the repository
+1. Clone the repository.
 2. Open project in Eclipse IDE
 3. Create MySQL database
 4. Update `application.properties`
