@@ -86,7 +86,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 2. Open project in Eclipse IDE.
 3. Create MySQL database
 4. Update `application.properties`
-5. Run as Spring Boot Application
+5. Run as Spring Boot Application.
 6. Test APIs using Postman
 
 ---
