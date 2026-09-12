@@ -87,7 +87,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 3. Create MySQL database.
 4. Update `application.properties`
 5. Run as Spring Boot Application.
-6. Test APIs using Postman
+6. Test APIs using Postman.
 
 ---
 
