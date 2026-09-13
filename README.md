@@ -93,7 +93,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 
 ## 🎯 Learning Outcomes
 - Spring Boot Architecture.
-- REST API Development
+- REST API Development.
 - CRUD Operations
 - Entity Relationships
 - Database Integration
