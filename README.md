@@ -95,7 +95,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 - Spring Boot Architecture.
 - REST API Development.
 - CRUD Operations.
-- Entity Relationships
+- Entity Relationships.
 - Database Integration
 - Backend Project Deployment
 - GitHub Project Management
