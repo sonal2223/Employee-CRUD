@@ -96,7 +96,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 - REST API Development.
 - CRUD Operations.
 - Entity Relationships.
-- Database Integration
+- Database Integration.
 - Backend Project Deployment
 - GitHub Project Management
 
