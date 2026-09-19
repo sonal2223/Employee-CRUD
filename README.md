@@ -104,7 +104,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 
 ## 📌 Future Enhancements
 - Employee Login Authentication.
-- Admin Dashboard
+- Admin Dashboard.
 - Monthly Salary Auto Calculation
 - Search and Pagination
 - Export Reports to Excel/PDF
