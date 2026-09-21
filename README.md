@@ -107,7 +107,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 - Admin Dashboard.
 - Monthly Salary Auto Calculation.
 - Search and Pagination.
-- Export Reports to Excel/PDF
+- Export Reports to Excel/PDF.
 - Frontend Integration using React / Angular
 
 ---
