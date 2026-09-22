@@ -67,7 +67,7 @@ This project demonstrates core backend development concepts such as CRUD operati
 ## 🌐 REST API Modules
 
 ### Employee APIs
-- POST /employees
+- POST /employees.
 - GET /employees
 - GET /employees/{id}
 - PUT /employees/{id}
